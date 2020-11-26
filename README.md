@@ -1,5 +1,0 @@
-# gittest
-
-create project
-
-todo
